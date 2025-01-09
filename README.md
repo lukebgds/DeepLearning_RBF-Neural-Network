@@ -16,7 +16,7 @@ A função de ativação RBF utiliza a função Gaussiana para calcular a ativa�
 
 A classe **RBFNetwork** encapsula a lógica da rede de base radial. A função **fit** ajusta os centros dos neurônios utilizando **KMeans**, enquanto a função **predict** gera as previsões com base nos dados de entrada. O uso de **KMeans** permite a determinação eficiente dos centros.
 
-## 3. Geração de Dados com make_moons (Ruído Controlado)
+## 3. Geração de Dados com DataSet make_moons (Ruído Controlado)
 
 A função **make_moons** cria um conjunto de dados com separação não-linear, desafiando a classificação e simulando problemas do mundo real, com ruído controlado.
 
