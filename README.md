@@ -51,7 +51,9 @@ Este repositório apresenta uma implementação detalhada de uma **rede neural d
 
 ***Para uma explicação mais detalhada e um entendimento completo sobre a implementação da rede RBF, consulte o código no notebook, onde cada etapa é explicada de forma clara e estruturada.***
 
-## Autor
+---
+
+### Autor
 
 **Lucas Benício Gusmão da Silva**
 
